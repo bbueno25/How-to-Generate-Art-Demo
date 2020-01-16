@@ -5,7 +5,6 @@
 We're going to re-purpose the pre-trained VGG16 convolutional network that won the ImageNet competition in 2014 to transfer the style of a given image to another.
 
 - [video](https://youtu.be/Oex0eWoU7AQ)  
-- [paper](https://arxiv.org/abs/1508.06576)
 
 ## Usage
 
