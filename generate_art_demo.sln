@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "generate_art_demo", "generate_art_demo\generate_art_demo.pyproj", "{981A1D47-E218-4F6E-9710-0302DAD925A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981A1D47-E218-4F6E-9710-0302DAD925A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981A1D47-E218-4F6E-9710-0302DAD925A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D3AEF6-72B0-49D0-AC0E-DFE39D7B5A72}
+	EndGlobalSection
+EndGlobal
